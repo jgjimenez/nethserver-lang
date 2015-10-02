@@ -1,21 +1,21 @@
-============
-Restore Data
-============
+===============
+Restaurar datos
+===============
 
-Restore data from backup through web interface.
+Restaurar los datos de copia de seguridad a través de la interfaz web.
 
-Choose between two options:
-===========================
+Elige entre estas dos opciones:
+===============================
 
-    restore data in the original path, the files are overwritten.
-    restore data in original path but with _DATE in the name, the files are not overwritten.
+     Restaurar los datos en la ruta original, los archivos son sobrescritos.
+     Restaurar los datos en la ruta original pero con _FECHA en el nombre, los archivos no se sobrescriben.
 
-The restore steps are:
-======================
+Los pasos de restauración son:
+==============================
 
-    expand tree
-    search for directory to restore
-    select directory to restore
-    press 'Restore'
+     ampliar árbol
+     buscar directorio para restaurar
+     seleccionar el directorio para restaurar
+     presione "Restaurar"
 
-Note: Multiple selection can be done with Ctrl key pressed.
+Nota: La selección múltiple se puede hacer con la tecla Ctrl presionada.
